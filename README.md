@@ -1,3 +1,2 @@
 # BlurWithTrackbar
-blur lena.jpg with trackbar
-Very simple test with openCV 3.0
+Very simple test with openCV 3.0. blur lena with a trackbar
